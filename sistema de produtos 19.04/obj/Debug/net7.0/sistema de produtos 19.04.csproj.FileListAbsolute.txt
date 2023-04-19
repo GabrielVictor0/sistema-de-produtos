@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\bin\Debug\net7.0\sistema de produtos 19.04.exe
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\bin\Debug\net7.0\sistema de produtos 19.04.deps.json
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\bin\Debug\net7.0\sistema de produtos 19.04.runtimeconfig.json
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\bin\Debug\net7.0\sistema de produtos 19.04.dll
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\bin\Debug\net7.0\sistema de produtos 19.04.pdb
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.dll
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\refint\sistema de produtos 19.04.dll
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.pdb
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\sistema de produtos 19.04.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\sistema de produtos 19.04\obj\Debug\net7.0\ref\sistema de produtos 19.04.dll
